@@ -8,7 +8,7 @@ package threadtester;
 
 /**
  *
- * @author root
+ * @author somebody
  */
 public class RandomGenerator 
 {
